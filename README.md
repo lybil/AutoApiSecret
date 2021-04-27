@@ -1,4 +1,4 @@
-# AutoApiSecret-加密12312版111
+# AutoApiSecret-加密版
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 
 # 置顶 #12321321321
